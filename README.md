@@ -1,4 +1,5 @@
-#Background
+Overview
+
 Maria has gotten a new version of the student data with several changes. This includes an additional column: "school budget". She wants you to rework part of your analysis by using the new dataset.
 
 What You're Creating
@@ -17,7 +18,6 @@ Deliverable 5: Compare and contrast the data through grouping and aggregation fu
 Deliverable 6: A written analysis of your results (README.md).
 
 Files
-Download challenge starter codeLinks to an external site.
 
 Instructions
 Deliverable 1: Collect the Data
@@ -25,7 +25,7 @@ Import the data from the new_full_student_data.csv file into a DataFrame named s
 
 Confirm that Pandas correctly imported the data by using the head function, as the following image shows:
 
-A screenshot depicts the first five rows of a DataFrame with eight columns of student data.
+![image](https://user-images.githubusercontent.com/119356389/228350121-1630a7dc-77d8-403d-b34a-e16990b8c1e7.png)
 
 Deliverable 2: Prepare the Data
 In the student DataFrame, check for rows that have NaN (or missing) values, and remove those rows, as the following image shows:
